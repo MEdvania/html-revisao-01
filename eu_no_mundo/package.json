@@ -1,0 +1,14 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "eu no mundo",
+  "main": "index.html",
+  "scripts": {},
+  "author": "manuela edvania",
+  "license": "ISC",
+  "keywords": [
+    "Eu",
+    "no",
+    "mundo"
+  ]
+}
